@@ -1,6 +1,6 @@
 # New-Repo
 
-Demo
+Demo repo
 
 Demo discription..............
 
